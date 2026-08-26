@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou João Monteiro</h1>
 
-<h3 align="center">💻 Desenvolvedor Full Stack</h3>
+<h3 align="center">💻 Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
 Sou apaixonado por tecnologia e desenvolvimento de software.
@@ -16,7 +16,6 @@ Estou sempre à procura de aprender novas tecnologias e melhorar continuamente a
 - 💻 Desenvolvimento Web Full Stack
 - 📚 Aprendizagem contínua
 - 🎯 Interesse em PHP, Yii2, JavaScript e Python
-- 🇵🇹 Leiria, Portugal
 
 ---
 
@@ -41,13 +40,13 @@ Estou sempre à procura de aprender novas tecnologias e melhorar continuamente a
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,yii,mysql" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=php,python,mysql,yii" />
 </p>
 
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,gitkraken" />
 </p>
 
 ---
@@ -55,10 +54,8 @@ Estou sempre à procura de aprender novas tecnologias e melhorar continuamente a
 ## 📊 Estatísticas
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoMonteiro0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMonteiro0&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=JoaoMonteiro0&show_icons=true&include_all_commits=true&theme=dark"/>
 
 </p>
 
@@ -77,13 +74,12 @@ Estou sempre à procura de aprender novas tecnologias e melhorar continuamente a
 ## 🏆 Troféus
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoaoMonteiro0&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  
+  <img src="./profile/trophy.svg" />
+  
 </p>
 
----
-
+<!--
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
@@ -91,8 +87,7 @@ Estou sempre à procura de aprender novas tecnologias e melhorar continuamente a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMonteiro0&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
+-->
 
 ## 🐍 Snake Animation
 
